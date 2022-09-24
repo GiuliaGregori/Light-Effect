@@ -1,0 +1,51 @@
+html {padding-top:0;}
+header{background-color: #E3E7E8;
+       margin-bottom:0;
+       padding: 0;
+       border-bottom: 0;
+       text-align: center;
+       position: relative;}
+
+h1 { font-family:  ;font-size: 2.5em; min-width: 10%; min-height: 5%; padding: 0%; margin-bottom: 0; color: #BF3A67;}
+
+h1:hover {
+
+  color: #636758;
+
+}
+nav ul {position: fixed; padding-bottom:0px; text-align: left; padding-left: 0 !important!;border-bottom: solid black 1px;}
+nav ul li {
+  font-size: 80%;
+  font-family: font-family: 'Pacifico' corsivo;
+	min-width: 5%; min-height: auto;
+	list-style-position: left;
+	margin-right:10px;
+	list-style-type: none;
+	display: inline-block;
+  position: static;
+
+}
+
+.blacklink {display: inline-block; color: #BF3A67; text-decoration: none; padding:0px 8px; text-align: left; padding-left: 15px}
+.blacklink:hover{color: #636758; text-decoration: none;}
+h2 {color: #BF3A67; font-size: 2em;}
+h3 {background-color: #E3E7E8; margin: 0px; padding:5px; padding-bottom: 10px; text-align: center; font-family: 'DM Serif Display', serif; font-size: 1.2em; 
+color: #BF3A67;}
+
+#club { max-width: 50% ; min-height: auto; margin-top: 60px; padding-bottom: 1%;}
+
+
+
+div.card-header{background-color: #E3E7E8; padding-bottom: 5px;}
+div.card-header:hover {text-decoration: white}
+body {background-color: #E3E7E8 ;}
+a {text-decoration: none; color: black;}
+a:hover {color: white; text-decoration: none; }
+
+div {background-color: #E3E7E8}
+div.card {background-color:#E3E7E8; position: center; border: 1px;}
+.brian {margin-top: 10%}
+
+div.row {float: center}
+.container.saidbar {text-align: center; }
+#homeicon {text-align: center; color: black; font-size: 3em; padding-top: 22%}
